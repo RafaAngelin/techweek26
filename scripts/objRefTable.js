@@ -16,7 +16,7 @@ self.C3_GetObjectRefTable = function () {
 		C3.Plugins.System.Acts.ResetEventVar,
 		C3.Plugins.Touch.Cnds.IsTouchingObject,
 		C3.Behaviors.Platform.Acts.SimulateControl,
-		C3.Plugins.Touch.Cnds.IsInTouch,
+		C3.Plugins.Touch.Cnds.OnTapGestureObject,
 		C3.Plugins.System.Cnds.IsGroupActive,
 		C3.Plugins.System.Cnds.EveryTick,
 		C3.Plugins.Text.Acts.SetText
